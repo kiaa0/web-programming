@@ -1,0 +1,22 @@
+img {
+    width: 30%;
+    padding: 5px;
+}
+
+td {
+    padding: 15px;
+    margin: 20px;
+    width: 274px;
+    background-color: aqua(34, 34, 34);
+    color: azure(170, 167, 167);
+    font-size: 1.2rem;
+}
+
+th{
+    padding: 15px;
+    margin: 20px;
+    width: 274px;
+    background-color: aliceblue(20, 20, 20);
+    color: aliceblue(255, 255, 255);
+    font-size: 1.2rem;
+}
